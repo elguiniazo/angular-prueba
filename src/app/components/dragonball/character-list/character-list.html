@@ -1,0 +1,13 @@
+<h3>Listado Fuertes</h3>
+<ol>
+  @for (character of characters(); track character.id) {
+    @if (character.power > 500) {
+      <li>
+        <span>{{ character.name }}</span>
+        <strong [class.text-danger]="character.power > 9000"> ({{ character.power }})</strong>
+      </li>
+    } @else {
+      <strong>Muy debil</strong>
+    }
+  }
+</ol>

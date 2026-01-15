@@ -1,0 +1,34 @@
+  ~/angular-prueba
+   public
+   src
+     app
+   │   components
+   │   pages
+   │ │   counter
+   │ │ │ │ 󰌝 counter-page.component.html
+   │ │ │ └ 󰛦 counter-page.component.ts
+   │ │   dragonball
+   │ │ │ │ 󰌝 dragonball-page.compone 󰄱 
+   │ │ │ └ 󰛦 dragonball-page.compo  󰄱 
+   │ │   hero
+   │ │ 󰛦 app.config.server.ts
+   │ │ 󰛦 app.config.ts
+   │ │ 󰌜 app.css
+   │ │ 󰌝 app.html
+   │ │ 󰛦 app.routes.server.ts
+   │ │ 󰛦 app.routes.ts
+   │ │ 󰛦 app.spec.ts
+   │ └ 󰛦 app.ts
+   │ 󰌝 index.html
+   │ 󰛦 main.server.ts
+   │ 󰛦 main.ts
+   │ 󰛦 server.ts
+   └ 󰌜 styles.css
+    README.md
+   󰘦 angular.json
+   󰘦 package-lock.json
+   󰘦 package.json
+   󰘦 tsconfig.app.json
+   󰘦 tsconfig.json
+   󰘦 tsconfig.spec.json
+   (6 hidden items)
